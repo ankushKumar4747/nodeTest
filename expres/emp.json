@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ankush",
+    "salary": "10000",
+    "join date": "20-04-2020",
+    "age": "21",
+    "qualification": "BCA",
+    "role": "HR",
+    "destination": "ynr",
+    "id": 1,
+    "isDeleted": false,
+    "image": "1756104510307-Screenshot (1).png"
+  },
+  {
+    "name": "sazid",
+    "salary": "1000",
+    "join date": "20-05-2020",
+    "age": "22",
+    "qualification": "Btech",
+    "role": "HR",
+    "destination": "ynr",
+    "id": 2,
+    "image": "1756098430995-fdfdf.png",
+    "isDeleted": false
+  }
+]
